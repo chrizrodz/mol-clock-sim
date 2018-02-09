@@ -1,0 +1,8 @@
+reversible
+mutation rate:0.0001
+AC:1.17998
+AG:10.42768
+AT:1.52056
+CG:0.95084
+CT:9.45268
+GT:1.0
